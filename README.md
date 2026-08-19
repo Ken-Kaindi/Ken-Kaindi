@@ -6,8 +6,6 @@ I’m an Information Technology professional passionate about building practical
 
 I enjoy developing applications, working with databases, analyzing data, experimenting with AI technologies, and continuously expanding my skills through hands-on projects.
 
----
-
 ## 🚀 About Me
 
 * 🎓 **BSc. Information Technology** — Mount Kenya University
@@ -19,8 +17,6 @@ I enjoy developing applications, working with databases, analyzing data, experim
 * 🤖 Exploring **Artificial Intelligence and Machine Learning**
 * 🧠 Developing skills in **Prompt Engineering and AI-assisted development**
 * 🌱 Continuously learning, building, testing and improving
-
----
 
 ## 🛠️ Technical Skills
 
@@ -65,8 +61,6 @@ I enjoy developing applications, working with databases, analyzing data, experim
 * Software Development
 * IT Troubleshooting
 
----
-
 ## 🚀 Featured Project
 
 ### 🏆 Machakos University Sports Management System
@@ -91,8 +85,6 @@ A web-based sports management platform designed to streamline the management of 
 
 > Building practical systems that solve real organizational problems is one of my main interests in software development.
 
----
-
 ## 🐍 Python & Data
 
 I'm developing my Python capabilities for applications involving:
@@ -106,8 +98,6 @@ I'm developing my Python capabilities for applications involving:
 * 🧠 AI experimentation
 
 Python is an important part of my continued development toward **data-driven and AI-enabled software solutions**.
-
----
 
 ## ⚛️ React & Modern Web Development
 
@@ -123,8 +113,6 @@ I'm developing modern frontend applications with **React**, focusing on:
 
 My goal is to combine modern frontend technologies with strong backend and database foundations.
 
----
-
 ## 🤖 Data & Artificial Intelligence
 
 I'm expanding my IT and software-development background into **Data and Artificial Intelligence**.
@@ -132,8 +120,6 @@ I'm expanding my IT and software-development background into **Data and Artifici
 Areas I'm currently exploring include:
 
 **Data Analytics • Machine Learning • Artificial Intelligence • Prompt Engineering • AI Workflows • Data Evaluation • Digital Transformation**
-
----
 
 ## 💡 What I Like Building
 
@@ -148,8 +134,6 @@ Areas I'm currently exploring include:
 * 🔗 APIs and integrated systems
 * 🖥️ Information management systems
 
----
-
 ## 📈 Current Direction
 
 ### Software Engineering
@@ -162,8 +146,6 @@ Areas I'm currently exploring include:
 
 My goal is to combine these areas to build **useful, intelligent and scalable digital solutions**.
 
----
-
 ## 🤝 Let's Connect
 
 I'm open to professional opportunities, collaborations, technology projects, and conversations around:
@@ -171,8 +153,6 @@ I'm open to professional opportunities, collaborations, technology projects, and
 **Software Development • IT • Data • AI • Web Development**
 
 📧 **Email:** `kenkaindi1@gmail.com`
-
----
 
 ### ⚡ Build. Learn. Improve. Repeat.
 
