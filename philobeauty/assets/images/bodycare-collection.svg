@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">PhiloBeauty bath and body collection</title><desc id="desc">Body butter and scrub jars in warm burgundy and blush tones.</desc>
+  <rect width="800" height="800" rx="64" fill="#fffaf3"/><path d="M0 620c170-145 450-170 800-25v205H0z" fill="#d7a74c" opacity=".18"/><circle cx="655" cy="170" r="150" fill="#f4c6cb" opacity=".42"/>
+  <ellipse cx="280" cy="360" rx="165" ry="62" fill="#5d0826"/><rect x="115" y="360" width="330" height="240" rx="55" fill="#7b0f34"/><ellipse cx="280" cy="600" rx="145" ry="28" fill="#5d0826" opacity=".5"/>
+  <ellipse cx="565" cy="430" rx="135" ry="50" fill="#d7a74c"/><rect x="430" y="430" width="270" height="190" rx="45" fill="#fff" stroke="#d7a74c" stroke-width="8"/>
+  <text x="280" y="470" text-anchor="middle" fill="#fffaf3" font-family="Georgia,serif" font-size="34">PhiloBeauty</text><text x="280" y="515" text-anchor="middle" fill="#f4c6cb" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">BODY</text><text x="565" y="535" text-anchor="middle" fill="#7b0f34" font-family="Georgia,serif" font-size="28">soft glow</text>
+</svg>

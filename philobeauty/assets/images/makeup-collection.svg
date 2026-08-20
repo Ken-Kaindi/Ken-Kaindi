@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">PhiloBeauty makeup collection</title><desc id="desc">Lipstick, compact and makeup brush in burgundy, blush and gold.</desc>
+  <rect width="800" height="800" rx="64" fill="#fff8ef"/><circle cx="160" cy="170" r="170" fill="#f4c6cb" opacity=".55"/><circle cx="670" cy="650" r="210" fill="#7b0f34" opacity=".08"/>
+  <g transform="rotate(-12 250 450)"><rect x="180" y="410" width="140" height="245" rx="18" fill="#7b0f34"/><rect x="190" y="350" width="120" height="85" rx="10" fill="#d7a74c"/><path d="M205 355V220c0-50 90-94 90-10v145z" fill="#aa1747"/></g>
+  <circle cx="505" cy="500" r="145" fill="#7b0f34"/><circle cx="505" cy="500" r="116" fill="#f1c3b7"/><circle cx="505" cy="500" r="88" fill="#c66f79" opacity=".65"/><path d="M580 270l65-55 35 42-66 55z" fill="#d7a74c"/><path d="M645 215c45-55 95-42 91 7-1 29-34 61-56 73z" fill="#7b0f34"/>
+  <text x="500" y="510" text-anchor="middle" fill="#7b0f34" font-family="Georgia,serif" font-size="31">PhiloBeauty</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">PhiloBeauty tools and brushes collection</title><desc id="desc">Professional makeup brushes and beauty sponge on ivory.</desc>
+  <rect width="800" height="800" rx="64" fill="#f8eee6"/><circle cx="160" cy="650" r="220" fill="#7b0f34" opacity=".09"/><circle cx="650" cy="125" r="160" fill="#d7a74c" opacity=".16"/>
+  <g transform="rotate(28 270 400)"><rect x="235" y="330" width="70" height="340" rx="30" fill="#7b0f34"/><rect x="225" y="280" width="90" height="90" rx="20" fill="#d7a74c"/><path d="M225 295c-40-105 135-170 90 0z" fill="#7b0f34"/></g>
+  <g transform="rotate(-18 490 380)"><rect x="460" y="285" width="60" height="330" rx="28" fill="#7b0f34"/><rect x="450" y="240" width="80" height="80" rx="18" fill="#d7a74c"/><path d="M450 255c-28-85 104-145 80 0z" fill="#a4435f"/></g>
+  <path d="M575 600c0-75 60-155 115-155s75 91 44 152c-32 64-159 79-159 3z" fill="#f0a9b2" stroke="#7b0f34" stroke-width="8"/><text x="400" y="710" text-anchor="middle" fill="#7b0f34" font-family="Georgia,serif" font-size="35">PhiloBeauty tools</text>
+</svg>
